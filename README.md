@@ -26,10 +26,10 @@ who love coding and enrich my knowledge train myself to be a better developer.
 
 ### https://github.com/amazingProj/Write-text-to-file-with-edge-cases
 
-# C++ ![image](https://user-images.githubusercontent.com/68805670/141069805-043deedf-d622-4a21-b5bc-a2952daf41ef.png)
+# C++ ![image](https://user-images.githubusercontent.com/68805670/141071029-31dfa823-a415-45a8-97e9-d3bf4bf727fd.png)
 
 
-# C# ![image](https://user-images.githubusercontent.com/68805670/135895177-da798fc5-9d22-4691-899f-f43b37c317df.png)
+# C# ![image](https://user-images.githubusercontent.com/68805670/141070961-c0fda21a-bb4f-4b7e-a86c-e682a0e13036.png)
 
 # Full-Stack developing ![image](https://user-images.githubusercontent.com/68805670/135895741-7e0a3144-b9d2-442b-8366-7b685464dc7a.png)
 
