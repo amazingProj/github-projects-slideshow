@@ -50,8 +50,6 @@ who love coding and enrich my knowledge train myself to be a better developer.
 
 ### https://github.com/amazingProj/FindCommand
 
-### https://github.com/amazingProj/secondTravelApp
-
 # Python3 ![image](https://user-images.githubusercontent.com/68805670/141070248-d2ef2a8f-de72-415a-90e7-83931ee0ae28.png)
 
 ### https://github.com/amazingProj/Connect4Game
