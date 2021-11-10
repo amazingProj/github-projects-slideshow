@@ -13,11 +13,11 @@ who love coding and enrich my knowledge train myself to be a better developer.
 
 # Android ![image](https://user-images.githubusercontent.com/68805670/135895357-e5817eb8-dd88-4791-87f6-1efe91301f7b.png)
 
-# C ![image](https://user-images.githubusercontent.com/68805670/141069216-f7d9bbc4-5172-482c-bb3c-12e3b7129357.png)
+# C ![image](https://user-images.githubusercontent.com/68805670/141069688-372d10c6-612e-4cfb-af28-a9291159d02b.png)
 
 https://github.com/amazingProj/CProject
 
-# C++ ![image](https://user-images.githubusercontent.com/68805670/141069268-f2946e22-bf0c-410b-ab6f-ef446c29dc71.png)
+# C++ ![Uploading image.png…]()
 
 
 # C# ![image](https://user-images.githubusercontent.com/68805670/135895177-da798fc5-9d22-4691-899f-f43b37c317df.png)
