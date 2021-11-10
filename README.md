@@ -13,11 +13,13 @@ who love coding and enrich my knowledge train myself to be a better developer.
 
 # Android ![image](https://user-images.githubusercontent.com/68805670/135895357-e5817eb8-dd88-4791-87f6-1efe91301f7b.png)
 
+### https://github.com/amazingProj/DynamicUI
+
 # C ![image](https://user-images.githubusercontent.com/68805670/141069688-372d10c6-612e-4cfb-af28-a9291159d02b.png)
 
-https://github.com/amazingProj/CProject
+### https://github.com/amazingProj/CProject
 
-# C++ ![Uploading image.png…]()
+# C++ ![image](https://user-images.githubusercontent.com/68805670/141069805-043deedf-d622-4a21-b5bc-a2952daf41ef.png)
 
 
 # C# ![image](https://user-images.githubusercontent.com/68805670/135895177-da798fc5-9d22-4691-899f-f43b37c317df.png)
@@ -27,6 +29,11 @@ https://github.com/amazingProj/CProject
 # Java ![image](https://user-images.githubusercontent.com/68805670/135895412-72189b30-3c23-4075-a2ed-44fff6309b9b.png)
 
 # Kotlin ![image](https://user-images.githubusercontent.com/68805670/135895493-c5384440-cf93-49e2-8d03-9185f6d5c7a8.png)
+
+
+### https://github.com/amazingProj/MiniCommunity
+
+
 
 # Linux-shell ![image](https://user-images.githubusercontent.com/68805670/135895812-9483cac3-e669-4cc8-a2fd-22a5c2cb4837.png)
 
