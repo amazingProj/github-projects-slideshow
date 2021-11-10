@@ -15,9 +15,15 @@ who love coding and enrich my knowledge train myself to be a better developer.
 
 ### https://github.com/amazingProj/DynamicUI
 
+### https://github.com/amazingProj/firstAppWithFirebase
+
+
+
 # C ![image](https://user-images.githubusercontent.com/68805670/141069688-372d10c6-612e-4cfb-af28-a9291159d02b.png)
 
 ### https://github.com/amazingProj/CProject
+
+### https://github.com/amazingProj/Write-text-to-file-with-edge-cases
 
 # C++ ![image](https://user-images.githubusercontent.com/68805670/141069805-043deedf-d622-4a21-b5bc-a2952daf41ef.png)
 
@@ -28,6 +34,8 @@ who love coding and enrich my knowledge train myself to be a better developer.
 
 # Java ![image](https://user-images.githubusercontent.com/68805670/135895412-72189b30-3c23-4075-a2ed-44fff6309b9b.png)
 
+### https://github.com/amazingProj/Graphic-images-framework
+
 # Kotlin ![image](https://user-images.githubusercontent.com/68805670/135895493-c5384440-cf93-49e2-8d03-9185f6d5c7a8.png)
 
 
@@ -37,8 +45,14 @@ who love coding and enrich my knowledge train myself to be a better developer.
 
 # Linux-shell ![image](https://user-images.githubusercontent.com/68805670/135895812-9483cac3-e669-4cc8-a2fd-22a5c2cb4837.png)
 
+### https://github.com/amazingProj/FindCommand
 
-# Python3 ![image](https://user-images.githubusercontent.com/68805670/135895309-cee09eeb-97f6-4a8b-834a-7f9b0e0eef6f.png)
+### https://github.com/amazingProj/secondTravelApp
 
+# Python3 ![image](https://user-images.githubusercontent.com/68805670/141070248-d2ef2a8f-de72-415a-90e7-83931ee0ae28.png)
+
+### https://github.com/amazingProj/Connect4Game
 
 # Q#
+
+# SQL
