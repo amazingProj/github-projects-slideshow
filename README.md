@@ -55,9 +55,7 @@ who love coding and enrich my knowledge train myself to be a better developer.
 ### https://github.com/amazingProj/Connect4Game
 
 # Q#
-<details>
-  
-  <script> # SQL </script>
-  
-  ###https://github.com/amazingProj/PLSQL-developer_project
-</details>  
+
+# SQL
+
+### https://github.com/amazingProj/PLSQL-developer_project
