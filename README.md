@@ -84,4 +84,4 @@ https://github.com/amazingProj/FlowerShopHebrew
 
 # SQL
 
-### https://github.com/amazingProj/PLSQL-developer_project
+### https://github.com/amazingProj/PLSQLDeveloperProject
