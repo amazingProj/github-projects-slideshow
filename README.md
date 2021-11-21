@@ -45,6 +45,8 @@ who love coding and enrich my knowledge train myself to be a better developer.
 
 ### https://github.com/amazingProj/PowerPlants
 
+### https://github.com/amazingProj/DesignPatternCSharp
+
 <br/>
 
 # Full-Stack developing ![image](https://user-images.githubusercontent.com/68805670/135895741-7e0a3144-b9d2-442b-8366-7b685464dc7a.png)
