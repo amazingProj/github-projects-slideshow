@@ -37,11 +37,11 @@ who love coding and enrich my knowledge train myself to be a better developer.
 
 <br/>
 
-# C++ ![image](https://user-images.githubusercontent.com/68805670/141071029-31dfa823-a415-45a8-97e9-d3bf4bf727fd.png)
+# C++ 
 
 <br/>
 
-# C# ![image](https://user-images.githubusercontent.com/68805670/141070961-c0fda21a-bb4f-4b7e-a86c-e682a0e13036.png)
+# C# 
 
 ### https://github.com/amazingProj/PowerPlants
 
@@ -49,13 +49,13 @@ who love coding and enrich my knowledge train myself to be a better developer.
 
 <br/>
 
-# Full-Stack developing ![image](https://user-images.githubusercontent.com/68805670/135895741-7e0a3144-b9d2-442b-8366-7b685464dc7a.png)
+# Full-Stack developing 
 
 https://github.com/amazingProj/FlowerShopHebrew
 
 <br/>
 
-# Java ![image](https://user-images.githubusercontent.com/68805670/135895412-72189b30-3c23-4075-a2ed-44fff6309b9b.png)
+# Java 
 
 ### https://github.com/amazingProj/Graphic-images-framework
 
@@ -68,13 +68,13 @@ https://github.com/amazingProj/FlowerShopHebrew
 
 <br/>
 
-# Linux-shell ![image](https://user-images.githubusercontent.com/68805670/135895812-9483cac3-e669-4cc8-a2fd-22a5c2cb4837.png)
+# Linux-shell 
 
 ### https://github.com/amazingProj/FindCommand
 
 <br/>
 
-# Python3 ![image](https://user-images.githubusercontent.com/68805670/141070248-d2ef2a8f-de72-415a-90e7-83931ee0ae28.png)
+# Python3
 
 ### https://github.com/amazingProj/Connect4Game
 
