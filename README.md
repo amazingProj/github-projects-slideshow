@@ -1,5 +1,7 @@
 ## github-slideshow by Topics
 
+if you are looking for my high level projects checkout this link: https://github.com/amazingProj/SeriousProjectExplained
+
 <br/>
 
 I love programming and train myself to be a better programmer.
@@ -27,6 +29,10 @@ who love coding and enrich my knowledge train myself to be a better developer.
 
 ### https://github.com/amazingProj/secondTravelApp
 
+### https://github.com/amazingProj/PanicButtonApplication
+
+### https://github.com/amazingProj/thirdApp
+
 <br/>
 
 # C ![image](https://user-images.githubusercontent.com/68805670/141069688-372d10c6-612e-4cfb-af28-a9291159d02b.png)
@@ -35,9 +41,13 @@ who love coding and enrich my knowledge train myself to be a better developer.
 
 ### https://github.com/amazingProj/Write-text-to-file-with-edge-cases
 
+### https://github.com/amazingProj/C-course
+
 <br/>
 
 # C++ 
+
+### https://github.com/amazingProj/Trees
 
 <br/>
 
@@ -46,6 +56,8 @@ who love coding and enrich my knowledge train myself to be a better developer.
 ### https://github.com/amazingProj/PowerPlants
 
 ### https://github.com/amazingProj/DesignPatternCSharp
+
+### https://github.com/amazingProj/DriverTests
 
 <br/>
 
@@ -87,3 +99,12 @@ https://github.com/amazingProj/FlowerShopHebrew
 # SQL
 
 ### https://github.com/amazingProj/PLSQLDeveloperProject
+
+
+# Falcon Programming Langauge 
+
+### https://github.com/amazingProj/Translator
+
+# Assembly
+
+### https://github.com/amazingProj/Assembly
